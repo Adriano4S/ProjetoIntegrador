@@ -20,7 +20,7 @@ O projeto foi desenvolvido para ser hospedado na nuvem, especificamente na AWS (
 - **Backend**: PHP
 - **Frontend**: HTML, CSS (utilizado para criação da interface de administração)
 - **Banco de Dados**: MySQL
-- **Serviços de Nuvem**: AWS (Amazon Web Services)
+- **Serviços de Hospedagem**: HostGator
 - **Servidor Web**: Apache
 
 ## Estrutura do Projeto
